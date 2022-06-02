@@ -7,3 +7,5 @@ if (A>B) :
     B=aux;
     print('O valor da variavel A agora é : ', A)
     print('O valor da variavel B agora é : ', B)
+
+    
